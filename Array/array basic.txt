@@ -1,0 +1,5 @@
+Insertion in Array:
+Searching in Array:
+Sorting in Array:
+Deleting in Array:
+Window Sliding Technique: This technique shows how a nested for loop in few problems can be converted to single for loop and hence reducing the time complexity.
